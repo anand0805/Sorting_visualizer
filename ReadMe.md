@@ -1,4 +1,4 @@
-https://7645re.github.io/SortingVisualization/
+
 # Features:
 - Binary search
 - Quick sort, Insertion sort, Counting Sort, Cocktail sort, Merge sort
@@ -35,5 +35,4 @@ Sorts that are implemented:
 
   ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/89273037/176278729-7e745a44-7198-426a-baae-640be46a62b1.gif)
  
-# Soon
-- Soften the sorting sound
+
